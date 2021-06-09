@@ -3,4 +3,3 @@ cmake
 gcc-8
 g++-8
 vim
-emacs
